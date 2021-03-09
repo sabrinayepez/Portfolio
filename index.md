@@ -40,7 +40,7 @@ Analyzed the radiation shielding effectiveness of a 3-D printed two-layer couple
 
 Above is our test set-up. By performing a low-cost radiation testing, we were able to quantify the  absorbed ionizing radiation of various sample materials under a 1 uCi radioactive disk of Cobalt-60. 
 
-![image](https://user-images.githubusercontent.com/70720921/110351867-4244e280-8003-11eb-8ce4-0a3b71d5d4b1.png)
+![image](https://user-images.githubusercontent.com/70720921/110529626-7b568300-80e7-11eb-9021-2153179aa241.png)
 
 The Figure above shows our test results. It was found that Onyx, an additive manufacturing material, protects from ionizing radiation; therefore, it can be used for in-space antenna manufacturing. This information was submitted as a research paper to [IEEE WAMICON 2021](https://daytonabeach.erau.edu/eaglecam) conference.
 
