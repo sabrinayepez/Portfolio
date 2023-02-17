@@ -29,7 +29,9 @@ The adjustable anchor point ensures that the upper body of the rider is securely
 
 This design solution provides a cost-effective alternative to completely redesigning and replacing ride vehicles, while still maintaining the highest level of safety and comfort for guests. Our team worked closely with ride operators to develop a design that would be easy to install and maintain, without compromising on ride experience or guest safety.
 
-We are proud to offer this innovative solution to the industry, and we hope that our design will serve as a model for future engineering innovations and improvements in the themed entertainment industry.
+We are proud to offer this innovative solution to the industry, and we hope that our design will serve as a model for future engineering innovations and improvements in the themed entertainment industry. 
+
+Please note that this design is Patent Pending. We take pride in our innovative solutions and are actively seeking patent protection for our design.
 
 ## EagleCam
 
