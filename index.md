@@ -1,5 +1,38 @@
 # Welcome 
-Hello! My name is Sabrirna Yepez. I am a 21 year old undergraduate senior at Embry-Riddle Areonautical University studying Electrical Engineering. Due to COVID-19, I decided to persue a Master's in Electrical and Computer Engineering degree until the job market stablizies itself. I have joined the accelerated master's program at Embry-Riddle Aeronatical University and have currently taken 3 graduate courses along side my undergraduate degree. It is my hope to find a fun fast-paced job in the central florida area, before my time as a college student expires. Although I still have a long ways to go in my career, it is my hope that this website will bring you up-to-date with my work so far.
+Welcome to my Engineering portfolio website!
+
+My name is Sabrina Yepez, and I am currently an Associate 1 Engineer for the Global Attractions Program at Universal Parks and Resorts. I am a recent graduate, having received my B.S. in Electrical Engineering in 2021, and then continued my education by earning my M.S. in Electrical and Computer Engineering in 2022.
+
+My objective is to combine my love for STEM with my passion for themed entertainment, in order to create more joy and excitement in the world. Through my work at Universal Parks and Resorts and beyond, I strive to push the boundaries of engineering and design to bring people closer to the magic of themed entertainment.
+
+This website will keep you up-to-date with my latest work, as much as I am legally allowed to share. So please, feel free to browse my portfolio and learn more about my experience and engineering capabilities. Thank you for visiting, and I hope you enjoy your stay!
+
+## Over-the-Shoulder Seat Restraint Modification with Adjustable Buckle Anchor Point (Patent Pending)
+![image](https://user-images.githubusercontent.com/70720921/219810573-0e7fa062-151d-47e1-931c-2c1674df9641.png)
+
+![image](https://user-images.githubusercontent.com/70720921/219808125-5e9302f3-a4f9-4a5f-856c-0f271073c5ee.png)
+
+### About This Project
+
+The aim of this project was to retrofit the existing ride vehicles' over-the-shoulder restraint system to provide enhanced safety and security for guests. The original ride design had horizontally locking lap bars, which left the upper body of the rider with limited restraint. By modifying the restraint system to secure the upper body to the seat, the risk of potential accidents and injuries were reduced.
+
+<img width="611" alt="Screen Shot 2023-02-17 at 5 40 06 PM" src="https://user-images.githubusercontent.com/70720921/219811254-246a3c4f-84f8-4388-b5e2-cc1374edf9d4.png">
+
+The modified over-the-shoulder restraint system features an adjustable buckle anchor point, providing guests with a comfortable and customized fit, while still maintaining maximum safety. The new restraint system is engineered to provide the same high level of safety and security as the original ride design, while also enhancing the guest experience by allowing more freedom of movement for the lower body.
+
+### Design
+<img width="624" alt="Screen Shot 2023-02-17 at 5 40 24 PM" src="https://user-images.githubusercontent.com/70720921/219811308-269126d2-9991-4c65-af21-7d6400f9f4bf.png">
+
+The modified over-the-shoulder restraint system offers a cost-effective solution for theme parks and ride operators seeking to retrofit existing ride vehicles with enhanced safety features. The design requires the installation of comfort collars on the seat, which provides added support for the rider's head and neck. The adjustable anchor point is located on the inside of the lap bar and creates an anchor point at the true center of the seat, regardless of the position of the lap bar.
+
+<img width="503" alt="Screen Shot 2023-02-17 at 5 40 31 PM" src="https://user-images.githubusercontent.com/70720921/219811374-9652ce02-d881-4432-8235-64cb86789921.png">
+
+
+The adjustable anchor point ensures that the upper body of the rider is securely fastened to the seat, reducing the risk of potential accidents and injuries. In addition, the comfort collars provide added support and reduce the potential for rider discomfort during the ride.
+
+This design solution provides a cost-effective alternative to completely redesigning and replacing ride vehicles, while still maintaining the highest level of safety and comfort for guests. Our team worked closely with ride operators to develop a design that would be easy to install and maintain, without compromising on ride experience or guest safety.
+
+We are proud to offer this innovative solution to the industry, and we hope that our design will serve as a model for future engineering innovations and improvements in the themed entertainment industry.
 
 ## EagleCam
 
