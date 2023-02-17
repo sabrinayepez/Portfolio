@@ -10,8 +10,6 @@ This website will keep you up-to-date with my latest work, as much as I am legal
 ## Over-the-Shoulder Seat Restraint Modification with Adjustable Buckle Anchor Point (Patent Pending)
 ![image](https://user-images.githubusercontent.com/70720921/219810573-0e7fa062-151d-47e1-931c-2c1674df9641.png)
 
-![image](https://user-images.githubusercontent.com/70720921/219808125-5e9302f3-a4f9-4a5f-856c-0f271073c5ee.png)
-
 ### About This Project
 
 The aim of this project was to retrofit the existing ride vehicles' over-the-shoulder restraint system to provide enhanced safety and security for guests. The original ride design had horizontally locking lap bars, which left the upper body of the rider with limited restraint. By modifying the restraint system to secure the upper body to the seat, the risk of potential accidents and injuries were reduced.
