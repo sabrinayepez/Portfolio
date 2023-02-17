@@ -12,11 +12,9 @@ This website will keep you up-to-date with my latest work, as much as I am legal
 <img width="611" alt="Screen Shot 2023-02-17 at 5 40 06 PM" src="https://user-images.githubusercontent.com/70720921/219811254-246a3c4f-84f8-4388-b5e2-cc1374edf9d4.png">
 
 ### About This Project
-
-<img width="624" alt="Screen Shot 2023-02-17 at 5 40 24 PM" src="https://user-images.githubusercontent.com/70720921/219811308-269126d2-9991-4c65-af21-7d6400f9f4bf.png">
-
 The aim of this project was to retrofit the existing ride vehicles' over-the-shoulder restraint system to provide enhanced safety and security for guests. The original ride design had horizontally locking lap bars, which left the upper body of the rider with limited restraint. By modifying the restraint system to secure the upper body to the seat, the risk of potential accidents and injuries were reduced.
 
+<img width="624" alt="Screen Shot 2023-02-17 at 5 40 24 PM" src="https://user-images.githubusercontent.com/70720921/219811308-269126d2-9991-4c65-af21-7d6400f9f4bf.png">
 
 The modified over-the-shoulder restraint system features an adjustable buckle anchor point, providing guests with a comfortable and customized fit, while still maintaining maximum safety. The new restraint system is engineered to provide the same high level of safety and security as the original ride design, while also enhancing the guest experience by allowing more freedom of movement for the lower body.
 
