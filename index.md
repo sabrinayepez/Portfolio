@@ -22,7 +22,7 @@ The modified over-the-shoulder restraint system features an adjustable buckle an
 The modified over-the-shoulder restraint system offers a cost-effective solution for theme parks and ride operators seeking to retrofit existing ride vehicles with enhanced safety features. The design requires the installation of comfort collars on the seat, which provides added support for the rider's head and neck. The adjustable anchor point is located on the inside of the lap bar and creates an anchor point at the true center of the seat, regardless of the position of the lap bar.
 
 <img width="503" alt="Screen Shot 2023-02-17 at 5 40 31 PM" src="https://user-images.githubusercontent.com/70720921/219811953-2f8e1f7f-4f06-4ca7-b2ce-ad64781ae54a.png">
-<img width="503" alt="Screen Shot 2023-02-17 at 5 40 31 PM" src="https://user-images.githubusercontent.com/70720921/219811374-9652ce02-d881-4432-8235-64cb86789921.png">
+<img width="502" alt="Screen Shot 2023-02-17 at 5 40 40 PM" src="https://user-images.githubusercontent.com/70720921/219812040-a696c6c1-428b-4152-a058-13d01d64ce4c.png">
 <img width="477" alt="Screen Shot 2023-02-17 at 5 40 45 PM" src="https://user-images.githubusercontent.com/70720921/219811993-8b7eecef-6000-4a71-8260-86306e848e77.png">
 
 The adjustable anchor point ensures that the upper body of the rider is securely fastened to the seat, reducing the risk of potential accidents and injuries. In addition, the comfort collars provide added support and reduce the potential for rider discomfort during the ride.
